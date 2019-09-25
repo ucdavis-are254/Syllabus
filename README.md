@@ -34,7 +34,7 @@ The course will be a lecture/discussion format.
 
 **Homeworks** will generally be due on Mondays, and I suggest that you work in teams of up to 3 people. These will be a **key** opportunity for you to learn. Each Monday, I will ask students to present solutions to their homework.
 
-The majority of your grade will be based on a **final project** applying one or more techniques discussed in the course to a dynamic optimization problem.
+The majority of your grade will be based on a take-home **midterm and final** applying one or more techniques discussed in the course to a dynamic optimization problem.
 
 # Overview
 
