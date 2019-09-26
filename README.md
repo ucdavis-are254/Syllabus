@@ -121,7 +121,8 @@ I take academic integrity and the [UC Davis Academic Code of Conduct](https://os
     + Examples of DP
     + More numerical DP solution methods
 - Week 6 (Nov 4 & 6)
-    + Mark out. Guest speakers.
+    + Mark out.
+    + Nov 6 - Mike Springborn
 - Week 7 (Nov 13)
     + Veteran's Day
     + Introduction to Optimal Control (OC) and ODEs
